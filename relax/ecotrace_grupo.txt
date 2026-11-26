@@ -1,0 +1,15 @@
+group: EcoTrace
+
+donantes = {
+  id_donante:number, tipo_donante:string, nombre_donante:string
+  1, 'DONANTE_EMPRESA', 'Servicios Digitales S.A.'
+  2, 'DONANTE_PARTICULAR', 'Juanito Pérez Gómez'
+  3, 'DONANTE_PARTICULAR', 'Santiago'
+}
+
+recepciones = {
+  id_recepcion:number, folio:string, id_donante:number, tipo_aparato:string, peso_kg:number, responsable_almacen:string, estado:string
+  1, 'REC-2026-089', 1, 'Servidores de Rack', 320.00, 'Carlos Mendoza', 'En Desensamble'
+  2, 'REC-2026-088', 2, 'Laptops viejas y Celulares', 15.50, 'Ana Ramírez', 'Clasificado'
+  3, 'REC-2026-092', 3, 'Telefono', 500.00, 'Pedro', 'En Desensamble'
+}
