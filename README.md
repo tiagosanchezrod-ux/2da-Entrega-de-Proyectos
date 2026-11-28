@@ -23,8 +23,8 @@
 * **Repositorio original:** https://github.com/gabrielhuav/Data_Warehouse_static
 * **Demostración estática original:** https://gabrielhuav.github.io/Data_Warehouse_static/
 * **Versión extendida (área metropolitana y grafo):** https://github.com/gabrielhuav/Data_Warehouse_IJCOPI
-* **Fork propio del repositorio:** ``
-* **Versión publicada (GitHub Pages):** ``
+* **Fork propio del repositorio:** https://github.com/val0444/Data_Warehouse_IJCOPI
+* **Versión publicada (GitHub Pages):** https://val0444.github.io/Data_Warehouse_IJCOPI/ijcopi/mapa-zm.html?ind=m_litros
 
 ---
 
@@ -52,4 +52,5 @@
 * **Cómo comprobaría que funciona:** Poblar la tabla con un conjunto controlado de reportes de prueba asociados a ubicaciones existentes en `dim_ubicacion`, verificar el cumplimiento de las restricciones de integridad referencial y ejecutar la consulta de cruce en PostgreSQL para confirmar que distingue correctamente las alertas respaldadas por reportes ciudadanos de aquellas sin incidencia registrada.
 
 ### Presentación para la exposición
-* **Archivo de la presentación:** `[PEGAR AQUÍ EL ENLACE O RUTA, ej: docs/presentacion_final.pdf]`
+* **Archivo de la presentación:** https://canva.link/z01ez3rqsskw1dd
+  
