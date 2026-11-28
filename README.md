@@ -10,6 +10,7 @@
 * **Aplicación web :** Interfaz web (`frontend/`) conectada a backend/API (`backend/`) y base de datos PostgreSQL levantada mediante `docker-compose.yml`.
 * **Esquema y scripts SQL:** Definición de tablas, restricciones y consultas en `sql/` (`practica_algebra_relacional.sql` y scripts de esquema/carga).
 * **Evidencia de registro y base de datos:** Capturas y verificaciones en `docs/` (comprobación desde formulario web y consulta `SELECT` en pgAdmin).
+* **Video de demostración:** [Ver video de demostración (`docs/Demostración.mp4`)](./docs/Demostración.mp4)
 * **Normalización (1FN a 3FN y FNBC):** [normalizacion.md](normalizacion.md)
 * **Álgebra relacional y SQL equivalente:** [algebra.md](algebra.md)
 * **Grupo de datos para RelaX:** [relax/ecotrace_grupo.txt](relax/ecotrace_grupo.txt)
