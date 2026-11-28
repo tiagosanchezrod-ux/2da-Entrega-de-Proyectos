@@ -29,7 +29,7 @@
 
 ## Parte 3. Bibliografia y Propuestas de Mejora
 
-### Referencia del artículo (APA 7)
+### Referencia del artículo 
 > Hurtado Avilés, G., Velázquez Arrieta, E. U., Pulido Morales, O. F., García López, E., Hernández Martínez, C. A., & Zagal Flores, R. E. (2026). *Territorial information retrieval from heterogeneous open data: Extending a water data warehouse from Mexico City to its metropolitan area* [Manuscrito no publicado / versión v3 con grafo]. Escuela Superior de Cómputo, Instituto Politécnico Nacional. https://github.com/gabrielhuav/Data_Warehouse_IJCOPI/blob/main/paper/ijcopi/dw_agua_IJCOPI_v3_grafo.docx
 
 ### Resumen
